@@ -1,2 +1,5 @@
-dogs <- c("Poodle", "Labrador", "Pitbull", "Bulldog")
-print(dogs)
+'
+x <- TRUE != FALSE
+print(x)
+'
+3==(2+1)
